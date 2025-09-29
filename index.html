@@ -513,6 +513,7 @@
                 'https://api.allorigins.win/raw?url=',
                 'https://proxy.cors.sh/?url=',
                 'https://cors-anywhere.herokuapp.com/'
+                'https://see.realcharger.com'
             ];
             
             let currentProxyIndex = 0;
@@ -627,7 +628,7 @@
                 contentFrame.style.display = 'none';
                 
                 let attempts = 0;
-                const maxAttempts = proxyServers.length * 4;
+                const maxAttempts = proxyServers.length * 5;
                 
                 while (attempts < maxAttempts) {
                     try {
