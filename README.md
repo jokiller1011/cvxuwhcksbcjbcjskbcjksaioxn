@@ -1,1 +1,7 @@
-# ixl
+Hello There!
+
+My name is Josiah Wilke!
+I made this proxy! Well you probaly don't beleive that. I didn't.
+I don't know why but DeepSeek the Chinese AI made this and it sometimes works!
+Now this works by using other working proxies and placing the link yyou type in that proxy and id that proxy works it uses a iframe 
+to project already created proxies and 
