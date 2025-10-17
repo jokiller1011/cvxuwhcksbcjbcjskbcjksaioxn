@@ -1,0 +1,117 @@
+14592 Studios Copyright License (JECL) — Version 1.0
+Copyright (c) 2025 14592 Studios
+All rights reserved.
+
+Preamble
+--------
+This software and all associated files, documentation, examples, images, and other
+materials (collectively, the "Software") are the original work of the copyright
+holder named above. This license states the terms under which others may use,
+copy, modify, redistribute, or contribute to the Software. Any use of the
+Software constitutes acceptance of these terms.
+
+Definitions
+-----------
+"Copyright Owner" — the person or entity listed at the top of this file.
+"Repository" — the code repository and any public distribution of the Software.
+"Derivative Work" — any modification, adaptation, compilation, translation, or
+other work based substantially on the Software.
+"Distribution" — making the Software or Derivative Works available to the public,
+whether via public repository, web site, physical media, or other means.
+"Commercial Use" — any use primarily intended for commercial advantage or
+monetary compensation.
+
+Grant of Limited Rights
+-----------------------
+Subject to the terms and conditions below, the Copyright Owner grants you a
+non-exclusive, non-transferable, revocable license to:
+
+1. Clone, fork, and view the Repository for personal, educational, or evaluation
+   purposes.
+2. Create and use Derivative Works for personal or educational use only, provided
+   that the Derivative Works are not distributed to the public without express
+   written permission from the Copyright Owner.
+3. Refer to or excerpt small portions of the Software in tutorials or reviews,
+   provided that clear attribution to the Copyright Owner and a link to the
+   original Repository are included.
+
+Prohibited Uses (unless express written permission is obtained)
+--------------------------------------------------------------
+You MAY NOT under any circumstance, without prior written consent from the
+Copyright Owner:
+
+1. Distribute, publish, or otherwise make available the Software or any
+   Derivative Work to the public (including but not limited to public GitHub,
+   GitLab, Bitbucket, or personal websites) for any purpose other than
+   educational demonstration with proper attribution and a link to the original
+   Repository.
+2. Use the Software or Derivative Works for Commercial Use.
+3. Remove, alter, or obscure any copyright notices, license texts, author
+   attributions, or other ownership information included in the Software.
+4. Rebrand, rehost, resell, or present the Software as your own original work.
+5. Embed, frame, or otherwise display the Software inside another site or
+   application in a manner that hides or obscures the origin or attribution of the
+   Software (for example embedding in an iframe without visible credit).
+6. Bypass, interfere with, or remove any technical measures, watermarks, or
+   ownership indicators the Copyright Owner places in the Software.
+
+Attribution Requirement
+-----------------------
+All permitted uses (including excerpts and screenshots) must include:
+- The Copyright Owner's name as shown at the top of this file (e.g., "© 2025 14592 Studios"),
+- A link to the original Repository where the Software was published,
+- A short statement: "Used under the 14592 Studios Extended Copyright License (JECL) — Version 1.0."
+
+Distribution & Redistribution
+----------------------------
+For any redistribution that is explicitly permitted under express written
+permission from the Copyright Owner, the distributor must:
+- Include this entire LICENSE file unchanged,
+- Include a clear NOTICE file listing any modifications that were made and the
+  name and contact of the person who made those modifications,
+- Not sublicense the rights granted by this license to any third party.
+
+Warranty Disclaimer & Liability
+-------------------------------
+The Software is provided "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. The Copyright Owner expressly disclaims any warranties, including
+without limitation any warranty of MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, OR NON-INFRINGEMENT. In no event shall the Copyright Owner be liable
+for any direct, indirect, incidental, special, exemplary, or consequential
+damages arising out of or in connection with the use or misuse of the Software.
+
+Termination
+-----------
+This license is effective until terminated. The Copyright Owner may terminate the
+license immediately if you breach any term of this license. Upon termination you
+must immediately stop using the Software and delete all copies of the Software
+and Derivative Works in your possession or control.
+
+Enforcement & Remedies
+----------------------
+The Copyright Owner reserves the right to pursue any legal or equitable remedy
+available under applicable law for breach of this license. Violators may be
+subject to civil damages, injunctive relief, or other enforcement actions.
+
+Governing Law & Jurisdiction
+----------------------------
+This license shall be governed by the laws of the jurisdiction specified by the
+Copyright Owner. If no specific jurisdiction is provided, then the laws of the
+country of residence of the Copyright Owner at the time of publication shall
+apply. Parties agree that disputes arising hereunder may be brought in the
+courts having jurisdiction over the Copyright Owner's residence.
+
+Contact & Notices
+-----------------
+To request permission, report a suspected unauthorized use, or receive a copy of
+the source, contact:
+- Name: 14592 Studios
+- GitHub: https://github.com/jokiller1011
+- Email: josiah.wilke77@outlook.com
+
+Miscellaneous
+-------------
+If any provision of this license is found by a court of competent jurisdiction
+to be unenforceable, that provision shall be limited or eliminated to the
+minimum extent necessary so that the remainder of the license remains in full
+force and effect.
